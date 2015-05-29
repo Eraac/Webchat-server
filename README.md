@@ -1,2 +1,2 @@
 # Webchat-server
-Serveur C++ en websocket
+Chat en ligne via les WebSocket en C++
